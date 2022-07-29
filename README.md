@@ -1,2 +1,2 @@
 # New-repo
-creating repository for new course in udemy
+hello, I'm meshing with this repo!
